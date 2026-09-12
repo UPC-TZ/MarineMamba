@@ -151,8 +151,4 @@ If you use this work, please cite the accompanying manuscript:
 
 > Tianze Zhang, Xiaowen Tao, Min Lou, Yangyang Wang, and Hongde Qin. **MarineMamba: Selective State-Space Reinforcement Learning for Linear-Complexity Control of Unmanned Underwater Vehicles.**
 
-Publication venue, year, and DOI are omitted because the supplied manuscript does not establish final publication metadata.
 
-## Acknowledgments
-
-This work builds on MarineGym, PPO, and the Mamba selective state-space architecture. The manuscript acknowledges support from the National Natural Science Foundation of China (Grant No. 52501414), the Youth Fund of the Natural Science Foundation of Shandong Province (Grant No. ZR2025QC1099), and the Shandong Provincial University Youth Innovation Science and Technology Support Program (Grant No. 2025KJH208).
